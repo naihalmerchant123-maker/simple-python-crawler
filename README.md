@@ -36,4 +36,3 @@ python crawler.py
 
 3️⃣ Input
 Enter the URL: https://example.com
-Enter the keyword: admin
