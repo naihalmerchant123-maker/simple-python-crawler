@@ -1,5 +1,5 @@
 # simple-python-crawler
-About This Project
+
 This project was initially inspired by a YouTube tutorial on building a basic Python web crawler.
 I rewrote and modified the code while learning, and extended it with additional improvements to make it more practical and reliable.
 
